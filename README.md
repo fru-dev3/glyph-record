@@ -1,3 +1,8 @@
+> **Glyph Record is now part of [Glyph Jot](https://github.com/fru-dev3/glyph-jot)** (2026-10-25).
+> One Mac app: hold Fn to jot, click Record for meetings, one library for notes, dictations and
+> recordings. Download it from [glyph-jot releases](https://github.com/fru-dev3/glyph-jot/releases/latest)
+> or see [glyph.fru.dev/jot](https://glyph.fru.dev/jot). This repository is archived and kept as it was.
+
 <p align="center"><img src="Record/Assets.xcassets/AppIcon.appiconset/icon_256@2x.png" width="128" alt="Glyph Record icon"></p>
 
 <h1 align="center">Glyph Record</h1>
