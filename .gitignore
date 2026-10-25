@@ -1,0 +1,10 @@
+build/
+dist/
+GlyphRecord.xcodeproj/
+Packages/*/.build/
+Packages/*/.swiftpm/
+__pycache__/
+.DS_Store
+.unlazy/
+.unlazy-archive/
+.env*
